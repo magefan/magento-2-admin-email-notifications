@@ -1,4 +1,4 @@
-# Magento 2 WebP Images Extension
+# Magento 2 Admin Email Notifications Extension
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/l/o/long-admin-notification.webp">
 
 Receive admin notifications about new reviews or disabled cache and email notifications about reviews and low stock. Configure the email sender, templates and recipient, attach CSV files and set the notification time. Be aware of your store changes with the [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications) extension.
