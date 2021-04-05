@@ -28,7 +28,7 @@ If customers want to buy something, but can’t because the product is out of st
 ### New Review Notification
 Communicate with your customers to learn about their wishes and preferences. Track reviews on your store with the Admin Notification Extension for Magento 2 and receive email notifications about new reviews on your store.
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-new-reviews-notification.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-new-reviews-notification.webp">
 </p>
 
 ### Email Notification Templates
