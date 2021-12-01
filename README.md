@@ -83,4 +83,5 @@ With Magento 2 Admin Email Notification Extension you can attach a CSV file to t
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
   * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
-
+  * [Magento 2 AMP Blog Extension](https://magefan.com/magento-2-amp-blog-extension)
+  * [Magento 2 Coupon Code Link](https://magefan.com/magento-2-coupon-code-link)
