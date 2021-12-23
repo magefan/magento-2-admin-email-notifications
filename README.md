@@ -51,7 +51,7 @@ With Magento 2 Admin Email Notification Extension you can attach a CSV file to t
 * [How to uninstall Magento 2 Admin Email Notifications Extension?](https://magefan.com/magento-2-admin-email-notifications/uninstalling)
 
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
