@@ -8,7 +8,7 @@
 
 Receive admin notifications about new reviews or disabled cache and email notifications about reviews and low stock. Configure the email sender, templates and recipient, attach CSV files and set the notification time. Be aware of your store changes with the [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications) extension.
 
-<a href="https://magefan.com/magento-2-admin-email-notifications"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-admin-email-notifications"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-admin-email-notifications#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Features
 ### Easy Notification Management
