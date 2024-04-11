@@ -6,46 +6,50 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/l/o/long-admin-notification.webp">
 
-Receive admin notifications about new reviews or disabled cache and email notifications about reviews and low stock. Configure the email sender, templates and recipient, attach CSV files and set the notification time. Be aware of your store changes with the [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications) extension.
+[Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications) extension is a solution that allows you to receive notifications about new reviews, disabled cache, new customers and low stock for better store management. Configure the email sender, templates and recipient, attach CSV files and set the notification time. Be aware of your store changes wherever you are.
 
 <a href="https://magefan.com/magento-2-admin-email-notifications"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-admin-email-notifications#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
 
 ## Features
 ### Easy Notification Management
 
-Notifications Management is quite easy in Magento 2. However, it doesn’t cover all range of messages it would be useful to receive. It is convenient to receive a message about low stock, disabled cache, or new reviews. And with Magento 2 Admin Email Notifications it is now possible.
+Notifications Management is quite easy in Magento 2. However, it doesn’t cover all range of messages it would be useful to receive. It is convenient to receive a message about low stock, disabled cache, or new reviews. And with Magento 2 Admin Email Notifications, it is now possible.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/Magento-2-notification-management.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-notification-management.webp">
 </p>
 
 ### Admin Notifications
 As mentioned before, Magento allows you to configure notifications you receive to your Magento 2 admin. However, there are no “new reviews” or “disabled cache” notifications by default. With the Magento Admin Notifications extension, you can set up these notifications, know when to reply to reviews and enable cache faster.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-admin-panel-notification.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-admin-panel-notification.webp">
 </p>
 
 ### Low Stock Notifications
 If customers want to buy something, but can’t because the product is out of stock, they most likely won’t come back later. Configure low-stock email notifications and know when to restock to provide an exceptional shopping experience for your customers.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-low-stock-email-notification.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-low-stock-email-notification.webp">
 </p>
 
 ### New Review Notification
 Communicate with your customers to learn about their wishes and preferences. Track reviews on your store with the Admin Notification Extension for Magento 2 and receive email notifications about new reviews on your store.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-new-reviews-notification.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-new-reviews-notification.webp">
 </p>
 
 ### Email Notification Templates
 You can choose the email notification templates to set up for both low stock and new review notifications. Admin Notification module allows you to choose what information emails you receive should contain.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-email-notification-templates.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-email-notification-templates.webp">
 </p>
 
 ### CSV File Attachment
 With Magento 2 Admin Email Notification Extension you can attach a CSV file to the email. This way you will receive a structured and detailed report about low-stock products and new reviews on your store.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-csv-file-attachment-in-email.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-csv-file-attachment-in-email.webp">
 </p>
 
 ## Documentation
@@ -102,6 +106,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-admin-email-notifications/issues).
 
 ## Need More Features?
 Please contact us to get a quote
