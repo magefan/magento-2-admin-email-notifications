@@ -4,7 +4,7 @@
 
 [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications) extension is a solution that allows you to receive notifications about new reviews, disabled cache, new customers and low stock for better store management. Configure the email sender, templates and recipient, attach CSV files and set the notification time. Be aware of your store changes wherever you are.
 
-Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
